@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "任务-RevitDevelop_YueJingSamples",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
